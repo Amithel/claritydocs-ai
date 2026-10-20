@@ -20,7 +20,7 @@ Every day, people struggle to understand dense official documents—such as rent
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YourUsername/claritydocs-ai.git](https://github.com/YourUsername/claritydocs-ai.git)
+   git clone https://github.com/Amithel/claritydocs-ai.git
    cd claritydocs-ai
 
 ## 🧪 Sample Documents for Testing
