@@ -22,3 +22,8 @@ Every day, people struggle to understand dense official documents—such as rent
    ```bash
    git clone [https://github.com/YourUsername/claritydocs-ai.git](https://github.com/YourUsername/claritydocs-ai.git)
    cd claritydocs-ai
+
+## 🧪 Sample Documents for Testing
+You can download and test sample inputs located in the `/test_samples` folder:
+- `raw_text_test_sample.txt` (Plain text input)
+- `sample-terms-of-service-template.pdf` (Sample PDF contract)
